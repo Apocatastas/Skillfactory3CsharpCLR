@@ -1,0 +1,15 @@
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/bin/Debug/net7.0/ConsoleCsharpEssentials
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/bin/Debug/net7.0/ConsoleCsharpEssentials.deps.json
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/bin/Debug/net7.0/ConsoleCsharpEssentials.runtimeconfig.json
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/bin/Debug/net7.0/ConsoleCsharpEssentials.dll
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/bin/Debug/net7.0/ConsoleCsharpEssentials.pdb
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/ConsoleCsharpEssentials.csproj.AssemblyReference.cache
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/ConsoleCsharpEssentials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/ConsoleCsharpEssentials.AssemblyInfoInputs.cache
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/ConsoleCsharpEssentials.AssemblyInfo.cs
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/ConsoleCsharpEssentials.csproj.CoreCompileInputs.cache
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/ConsoleCsharpEssentials.dll
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/refint/ConsoleCsharpEssentials.dll
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/ConsoleCsharpEssentials.pdb
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/ConsoleCsharpEssentials.genruntimeconfig.cache
+/Users/apocatastas/Projects/Skillfactory3CsharpCLR/ConsoleCsharpEssentials/obj/Debug/net7.0/ref/ConsoleCsharpEssentials.dll
