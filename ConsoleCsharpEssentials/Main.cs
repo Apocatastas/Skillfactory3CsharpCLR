@@ -14,9 +14,9 @@ class MainClass
     public static void Main(string[] args)
     {
 
+        /*
 
-
-    string myName;
+        string myName;
         myName = "Alla";
         int myAge = 35;
         bool isHavePet = true;
@@ -28,6 +28,10 @@ class MainClass
         Console.WriteLine("I am wearing shoes of {0} size",shoeSize);
         Console.WriteLine(Semaphore.Green);
         Console.WriteLine("\u0023");
+        */
+
+        double result = 5f / 2f;
+        Console.WriteLine("5 / 2 = {0}", result);
 
         Console.ReadKey();
     }
