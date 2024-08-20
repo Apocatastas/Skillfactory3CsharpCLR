@@ -9,6 +9,7 @@ class MainClass
         myName = "Alla";
 
         Console.WriteLine(myName);
+        Console.WriteLine("\u0023");
 
         Console.ReadKey();
     }
