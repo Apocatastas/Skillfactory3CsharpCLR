@@ -40,14 +40,10 @@ class MainClass
         Console.WriteLine("\u0023");
         double result = 5f / 2f;
         Console.WriteLine("5 / 2 = {0}", result);
-
-        Enum.GetValues(typeof(DayOfWeek)).GetValue(day)
         */
         Console.WriteLine("Type day number");
         var day = (DayOfWeek)int.Parse(Console.ReadLine());
         Console.WriteLine("It's {0}", day);
-        
-
         Console.ReadKey();
     }
 }
