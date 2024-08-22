@@ -29,6 +29,9 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
+ConsoleCsharpEssentials/obj/
+ConsoleCsharpEssentials/bin/
+ConsoleCsharpEssentials/.DS_Store/
 [Ll]og/
 [Ll]ogs/
 
