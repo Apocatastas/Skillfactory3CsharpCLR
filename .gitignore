@@ -31,10 +31,11 @@ bld/
 [Oo]bj/
 ConsoleCsharpEssentials/obj/
 ConsoleCsharpEssentials/bin/
-ConsoleCsharpEssentials/.DS_Store
-.DS_Store
 [Ll]og/
 [Ll]ogs/
+
+*.DS_Store
+._*
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
